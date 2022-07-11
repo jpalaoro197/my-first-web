@@ -10,8 +10,12 @@ h2 {
   font-style:italic;
 }
 
-<li> {
-  list-style: none;
-  padding: 0;
+#list {
   text-align: center;
+  width: 25%;
+  
+  margin: 4px;
+  border: 2px solid red;
+  padding: 4px;
+  background-color: lightskyblue;
 }
